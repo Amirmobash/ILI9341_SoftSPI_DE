@@ -7,6 +7,15 @@
 ## Keywords (SEO)
 Arduino Mega 2560, ILI9341, TFT, SPI, Software SPI, Hardware SPI, Adafruit GFX, Adafruit ILI9341, Display, Verdrahtung, Beispielcode, Anleitung Deutsch, PlatformIO, Arduino CLI.
 
+## 🔗 **Nützliche Links Amir Mobasheraghdam**
+
+### **Offizielle Repositories:**
+1. **LovyanGFX**: https://github.com/lovyan03/LovyanGFX
+2. **LVGL**: https://github.com/lvgl/lvgl
+3. **Beispielprojekt**: https://github.com/HarryVienna/Makerfabs-Sunton-ESP32-S3-7-Display-with-LovyanGFX-and-LVGL
+4. https://buchshop.bod.de/ergebnis-automation-fuer-die-bundesliga-mit-n8n-amir-mobasheraghdam-9783695724925
+5. https://amzn.eu/d/0aAtg00j
+6. 
 ## Inhalt
 - Funktionsfähige SoftSPI- und HardSPI-Beispiele
 - PlatformIO Projektdatei
